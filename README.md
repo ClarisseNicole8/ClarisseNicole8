@@ -1,7 +1,7 @@
 ## Hi! 👋 I am Clarisse, your future Full-Stack Software Developer. 👩‍💻
 _________________________________________
 
-I am an enthusiastic Full-Stack Developer with a love for problem-solving and improving the efficiency of processes.
+I am an enthusiastic Full-Stack Developer with a love for problem-solving and improving the efficiency of processes. 
 
 My skill set includes:
 - Languages | JavaScript, Python, SQL, HTML, CSS
