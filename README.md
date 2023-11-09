@@ -1,4 +1,5 @@
-## Hi! 👋 I am Clarisse, your future Full-Stack Software Developer. 👩‍💻
+## Hi! 👋 
+I'm Clarisse, your future Full-Stack Software Developer. 👩‍💻
 _________________________________________
 
 I am an enthusiastic Full-Stack Developer with a love for problem-solving and improving the efficiency of processes. 
