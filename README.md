@@ -12,7 +12,7 @@ My skill set includes:
 
 _________________________________________
 
-- Current goals include contributing more to Open Source projects
+- Current goals include contributing more to Open Source projects and learning new languages!
 
 _________________________________________
 **Connect with me:**
